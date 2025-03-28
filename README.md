@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Aimi](https://www.aimibot.com/)
 
-- 💻 I’m currently studying **computer science**
+- 🔗 My website: [https://www.joe50097.is-a.dev/](https://www.joe50097.is-a.dev/)
+
+- 💻 I’m studying **computer science**
 
 - 📫 How to reach me: **me@joe50097.is-a.dev**
 
