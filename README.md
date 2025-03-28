@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097" /> </p>
 
-- 🔭 I’m currently working on [Aimi](https://www.aimibot.com/).
+- 🔭 I’m currently working on [Aimi](https://www.aimibot.com/)
 
 - 💻 I’m studying **computer science** at university.
 
-- 📫 How to reach me: Visit my [website](https://www.joe50097.is-a.dev/) or reach out at **me@joe50097.is-a.dev**!
+- 📫 How to reach me: Visit my [website](https://www.joe50097.is-a.dev/) or reach out at **me@joe50097.is-a.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
