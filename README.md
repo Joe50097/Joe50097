@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Aimi](https://www.aimibot.com/)
 
-- 🔗 My website: [https://www.joe50097.is-a.dev/](https://www.joe50097.is-a.dev/)
+- 💻 I’m studying **computer science** at university.
 
-- 💻 I’m studying **computer science**
-
-- 📫 How to reach me: **me@joe50097.is-a.dev**
+- 📫 How to reach me: Visit my [website](https://www.joe50097.is-a.dev/) or reach out at **me@joe50097.is-a.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
