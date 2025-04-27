@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe50097" alt="joe50097" /></a> </p>
-
 - 🔭 I’m currently working on [Aimi](https://www.aimibot.com/)
 
 - 💻 I’m studying **computer science**
@@ -21,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe50097&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="joe50097" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe50097&show_icons=true&theme=cobalt&locale=en" alt="joe50097" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe50097&theme=highcontrast" alt="joe50097" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe50097&show_icons=true&theme=cobalt&locale=en" alt="joe50097" /></p
