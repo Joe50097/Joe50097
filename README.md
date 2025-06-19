@@ -10,11 +10,9 @@
 
 - 📫 How to reach me: Visit my [website](https://www.joe50097.is-a.dev/) or reach out at **me@joe50097.is-a.dev**
 
-<h3 align="left">Connect with me:</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">
-<a href="https://twitter.com/joe_50097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joe_50097" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://x.com/Joe_50097"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+</div>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
