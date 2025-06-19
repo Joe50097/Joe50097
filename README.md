@@ -1,4 +1,4 @@
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Founder & Developer of Aimi – the cutest anime Discord bot!</h3>
 
@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe50097&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="joe50097" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe50097&show_icons=true&theme=cobalt&locale=en" alt="joe50097" /></p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
