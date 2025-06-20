@@ -2,7 +2,6 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/Joe50097">Joe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097" /> </p>
 
 - 🚀 Founder & Developer of [Aimi](https://www.aimibot.com/)
 
