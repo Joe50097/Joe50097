@@ -1,14 +1,15 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/Joe50097">Joe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Founder & Developer of Aimi – the cutest anime Discord bot!</h3>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097" /> </p>
 
-- 🔭 I’m currently working on [Aimi](https://www.aimibot.com/)
+- 🚀 Founder & Developer of [Aimi](https://www.aimibot.com/)
 
-- 💻 I’m studying **computer science**
+- 💻 I’m a **Computer Science** student
 
-- 📫 How to reach me: Visit my [website](https://www.joe50097.is-a.dev/) or reach out at **me@joe50097.is-a.dev**
+- 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://www.joe50097.is-a.dev/" target="_blank">website</a>.
+<br>
 
 <div align="center">
   <a href="https://x.com/Joe_50097"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
@@ -41,7 +42,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-
+<br>
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
