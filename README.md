@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="https://x.com/Joe_50097"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://discord.com/users/667372536400445441"><img src="https://lanyard.cnrad.dev/api/667372536400445441?bg=1e2228" /></a>
 </div>
 
 <br>
