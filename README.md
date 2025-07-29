@@ -8,11 +8,6 @@
 - 💻 I’m a **Computer Science** student
 
 - 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://www.joe50097.is-a.dev/" target="_blank">website</a>.
-<br>
-
-<div align="center">
-  <a href="https://discord.com/users/667372536400445441"><img src="https://lanyard.cnrad.dev/api/667372536400445441?bg=1e2228&borderRadius=20px" /></a>
-</div>
 
 <br>
 
