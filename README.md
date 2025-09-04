@@ -3,11 +3,11 @@
 
 <br>
 
-- 🚀 Founder & Developer of [Aimi](https://www.aimibot.com/)
+- 🚀 Founder & Developer of [Aimi](https://aimi.bot/)
 
 - 💻 I’m a **Computer Science** student
 
-- 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://www.joe50097.is-a.dev/" target="_blank">website</a>.
+- 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://joe50097.is-a.dev/" target="_blank">website</a>.
 
 <br>
 
