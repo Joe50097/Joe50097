@@ -9,6 +9,8 @@
 
 - 💻 I’m a **Computer Science** student
 
+- 💖 Use Code **JOE_50097** in the Fortnite Item Shop
+
 - 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://joe50097.is-a.dev/" target="_blank">website</a>.
 
 <br>
