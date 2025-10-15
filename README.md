@@ -3,7 +3,7 @@
 
 <br>
 
-- 🎮 I'm a [Fortnite Island Creator](https://fn.gg/@joe_50097)
+- 🎮 I'm a [Fortnite Island Creator](https://www.fortnite.com/@joe_50097)
 
 - 🚀 Founder & Developer of [Aimi](https://aimi.bot/)
 
