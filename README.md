@@ -1,8 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1 align="center"><b>Hi there, I'm </b><a href="https://github.com/Joe50097">Joe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Joe50097">Joe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097"/></p>
 <br>
 
 - 🎮 I'm a [Fortnite Island Creator](https://www.fortnite.com/@joe_50097)
