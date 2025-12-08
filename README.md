@@ -11,7 +11,7 @@
 
 - 💻 I’m a **Computer Science** student
 
-- 💖 Use Code **JOE_50097** in the Fortnite Item Shop
+- 💖 I have Support-A-Creator Code: **JOE_50097**
 
 - 🌐 I also own a Minecraft server: [FunGaming Network](https://www.fungaming.network/)
 
