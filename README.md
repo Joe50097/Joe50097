@@ -13,7 +13,7 @@
 
 - 🌐 I also own a Minecraft server: [FunGaming Network](https://www.fungaming.network/)
 
-- 💖 I have Support-A-Creator Code: **JOE_50097** #EpicPartner
+- 💖 I have a Support-A-Creator Code: **JOE_50097** #EpicPartner
 
 - 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://www.joe50097.is-a.dev/" target="_blank">website</a>.
 
