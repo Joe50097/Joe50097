@@ -5,17 +5,17 @@
 <p><img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097"/></p>
 <br>
 
-- 🎮 I'm a [Fortnite Island Creator](https://www.fortnite.com/@joe_50097)
+- 🎮 I'm a [Fortnite Island Creator](https://fortnite.com/@joe_50097)
 
 - 🚀 Founder & Developer of [Aimi](https://aimi.bot/)
 
 - 💻 I’m a **Computer Science** student
 
-- 🌐 I also own a Minecraft server: [FunGaming Network](https://www.fungaming.network/)
+- 🌐 I also own a Minecraft server: [FunGaming Network](https://fungaming.network/)
 
 - 💖 I have a Support-A-Creator Code: **JOE_50097** #EpicPartner
 
-- 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://www.joe50097.is-a.dev/" target="_blank">website</a>.
+- 📫 Reach out to me at: <a href="mailto:me@joe50097.is-a.dev">me@joe50097.is-a.dev</a> or visit my <a href="https://joe50097.is-a.dev/" target="_blank">website</a>.
 
 <br>
 
