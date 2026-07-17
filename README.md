@@ -11,7 +11,9 @@
 
 - 💻 I’m a **Computer Science** student
 
+<!--
 - 🌐 I also own a Minecraft server: [FunGaming Network](https://fungaming.network/)
+-->
 
 - 💖 I have a Support-A-Creator Code: **JOE_50097** #EpicPartner
 
