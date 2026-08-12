@@ -5,11 +5,11 @@
 <p><img src="https://komarev.com/ghpvc/?username=joe50097&label=Profile%20views&color=0e75b6&style=flat" alt="joe50097"/></p>
 <br>
 
+- 🎮 I'm a [Fortnite Island Creator](https://fortnite.com/@joe_50097)
+
 - 🚀 Founder & Developer of [Aimi](https://aimi.bot/)
 
-- 🛡️ Moderator at [DiscordForge](https://discordforge.org/profile/joe)
-
-- 🎮 I'm a [Fortnite Island Creator](https://fortnite.com/@joe_50097)
+- 🛡️ I'm a Moderator at [DiscordForge](https://discordforge.org/profile/joe)
 
 - 💻 I’m a **Computer Science** student
 
